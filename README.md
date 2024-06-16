@@ -32,21 +32,23 @@ first you should get the data from [![Hugging Face Dataset](https://img.shields.
 
 To achieve this, we will:
 
-1. 💻 Install and set up the necessary AI libraries for generating images and audio, such as OpenAI and ElevenLabs, and you will find the data along with the main  file in Github.
-2. 🔌 Prepare the application programming interfaces (APIs) to interact with these libraries properly.
-3. 🎨🔊 Utilize these APIs to generate the appropriate images and audio for the Arabic poetry, and you may also need the huggingface tokenizer API.
-4. 📽️ Integrate the multimedia elements (images and audio) into a cohesive experience, synchronizing the image display with the audio playback.
-5. 🎉Present this integrated poetic multimedia experience and emphasize the value it adds to Arabic poetry arts.
+1. 💻 Install and set up the necessary AI libraries for generating images and audio, such as OpenAI and ElevenLabs.
+3. 🔌 Prepare the application programming interfaces (APIs) to interact with these libraries properly.
+5. 🎨🔊 Utilize these APIs to generate the appropriate images and audio for the Arabic poetry, and you may also need the huggingface tokenizer API.
+7. 📽️ Integrate the multimedia elements (images and audio) into a cohesive experience, synchronizing the image display with the audio playback.
+9. 🎉Present this integrated poetic multimedia experience and emphasize the value it adds to Arabic poetry arts.
 
 # How To Use:
 
 [![Hugging Face Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/alwalid54321/Arabic_Poems)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alwalid54321/Arabic_Poems/blob/main/Al_Asma'i.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com)
 
 Prerequisites:
 
 Python 3.9+
+
 OpenAI API key
+
 ElevenLabs API key
 
 Installation:
@@ -89,5 +91,18 @@ OpenAI for providing the GPT and DALL-E APIs
 
 ElevenLabs for the text-to-speech API
 
-All the great Arabic poets whose works inspire this project
+All the great Arabic poets whose works inspire this project]
 
+## Demo
+
+
+
+[![Al-Asma'i Demo](https://www.freeiconspng.com/thumbs/video-play-icon/video-play-icon-15.gif)](https://vimeo.com/959824960)
+
+In this video, you'll witness how Al-Asma'i transforms Arabic poetry into a rich multimedia experience:
+
+- 🖼️ Generating vivid images for each verse
+- 🎙️ Creating immersive audio narrations
+- 🎬 Compiling everything into a captivating video presentation
+
+Don't miss this unique blend of traditional Arabic poetry and cutting-edge AI technology!
