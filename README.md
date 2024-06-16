@@ -1,9 +1,9 @@
 ## Al-Asma'i: The Digital Poet
 
-![Python](https://img.shields.io/badge/python-3.9%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![OpenAI](https://img.shields.io/badge/OpenAI-API-lightgrey)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-API-orange)
+[![License](https://img.shields.io/badge/license-GPL%202.0-green)](https://opensource.org/licenses/GPL-2.0)
+[![Python](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-API-lightgrey)](https://www.openai.com/api/)
+[![ElevenLabs](https://img.shields.io/badge/ElevenLabs-API-orange)](https://elevenlabs.io/)
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 
 Al-Asma'i is an AI-powered project that brings Arabic poetry to life through multimedia generation. It converts textual poetry into a rich experience of generated images and background audio.
@@ -22,19 +22,22 @@ We will be presenting the final project for the Data Science and Artificial Inte
 
 We are trying to explore Arabic poetry and shed light on its aesthetics and artistic depth in an innovative and engaging way.
 
-first you should get the data from [here](https://huggingface.co/datasets/alwalid54321/Arabic_Poems) The data from (https://www.aldiwan.net/) and collected by: (https://huggingface.co/datasets/arbml/ashaar)
+first you should get the data from [![Hugging Face Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/alwalid54321/Arabic_Poems)
+ The data from (https://www.aldiwan.net/) Thanks to the collecter: (https://huggingface.co/datasets/arbml/ashaar)
 
 
 To achieve this, we will:
 
 1. 💻 Install and set up the necessary AI libraries for generating images and audio, such as OpenAI and ElevenLabs, and you will find the data along with the main  file in Github.
-2. 🔌 Prepare the application programming interfaces (APIs) to properly interact with these libraries.
-3. 🎨🔊 Utilize these APIs to generate the appropriate images and audio for the Arabic poetry, and you may also need huggingface tikonizer API.
+2. 🔌 Prepare the application programming interfaces (APIs) to interact with these libraries properly.
+3. 🎨🔊 Utilize these APIs to generate the appropriate images and audio for the Arabic poetry, and you may also need the huggingface tokenizer API.
 4. 📽️ Integrate the multimedia elements (images and audio) into a cohesive experience, synchronizing the image display with the audio playback.
 5. 🎉Present this integrated poetic multimedia experience and emphasize the value it adds to Arabic poetry arts.
 
 # How To Use:
 
+[![Hugging Face Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/alwalid54321/Arabic_Poems)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alwalid54321/Arabic_Poems/blob/main/Al_Asma'i.ipynb)
 
 Prerequisites:
 
@@ -76,7 +79,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 License
 This project is open source and available under the MIT License.
 # Acknowledgments:
-First for "Atheer" and "Lujain" for coming up with the idea
+First for "**Atheer**" and "**Lujain**" for coming up with the idea
 
 OpenAI for providing the GPT and DALL-E APIs
 
@@ -84,4 +87,3 @@ ElevenLabs for the text-to-speech API
 
 All the great Arabic poets whose works inspire this project
 
-by: **["alwalid54321"](https://github.com/alwalid54321)** and help from "Atheer" and "Lujain" 
