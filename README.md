@@ -18,11 +18,11 @@ To achieve this, we will:
 
 How To Use:
 Al-Asma'i: The Digital Poet
-https://img.shields.io/badge/python-3.9%2B-blue. Is
-https://img.shields.io/badge/license-MIT-green. Is
-https://img.shields.io/badge/OpenAI-API-lightgrey. Is
-https://img.shields.io/badge/ElevenLabs-API-orange. 
-https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat. Is
+![Python](https://img.shields.io/badge/python-3.9%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![OpenAI](https://img.shields.io/badge/OpenAI-API-lightgrey)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-API-orange)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 Al-Asma'i is an AI-powered project that brings Arabic poetry to life through multimedia generation. It converts textual poetry into a rich experience of generated images and background audio.
 Features:
 
