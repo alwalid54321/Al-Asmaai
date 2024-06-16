@@ -7,6 +7,10 @@
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 
 Al-Asma'i is an AI-powered project that brings Arabic poetry to life through multimedia generation. It converts textual poetry into a rich experience of generated images and background audio.
+
+# You can find the .ipynb file in [![Hugging Face Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face-.ipynb-blue)](https://huggingface.co/datasets/alwalid54321/Arabic_Poems/blob/main/Al_Asma'i.ipynb)
+
+
 Features:
 
 🖼️ Image generation for each verse using DALL-E
