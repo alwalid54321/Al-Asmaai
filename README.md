@@ -1,3 +1,20 @@
+## Al-Asma'i: The Digital Poet
+
+![Python](https://img.shields.io/badge/python-3.9%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![OpenAI](https://img.shields.io/badge/OpenAI-API-lightgrey)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-API-orange)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
+
+Al-Asma'i is an AI-powered project that brings Arabic poetry to life through multimedia generation. It converts textual poetry into a rich experience of generated images and background audio.
+Features:
+
+🖼️ Image generation for each verse using DALL-E
+🔊 Audio narration of verses using ElevenLabs
+📝 Verse explanations and illustrations using GPT
+🎞️ Automatic video generation combining images and audio
+🏰 Era classification of poems
+
 # Hello, 🖋📜
 
 
@@ -16,21 +33,8 @@ To achieve this, we will:
 4. 📽️ Integrate the multimedia elements (images and audio) into a cohesive experience, synchronizing the image display with the audio playback.
 5. 🎉Present this integrated poetic multimedia experience and emphasize the value it adds to Arabic poetry arts.
 
-How To Use:
-Al-Asma'i: The Digital Poet
-![Python](https://img.shields.io/badge/python-3.9%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![OpenAI](https://img.shields.io/badge/OpenAI-API-lightgrey)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-API-orange)
-![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
-Al-Asma'i is an AI-powered project that brings Arabic poetry to life through multimedia generation. It converts textual poetry into a rich experience of generated images and background audio.
-Features:
+# How To Use:
 
-🖼️ Image generation for each verse using DALL-E
-🔊 Audio narration of verses using ElevenLabs
-📝 Verse explanations and illustrations using GPT
-🎞️ Automatic video generation combining images and audio
-🏰 Era classification of poems
 
 Prerequisites:
 
@@ -71,10 +75,13 @@ Contributing:
 Contributions are welcome! Please feel free to submit a Pull Request.
 License
 This project is open source and available under the MIT License.
-Acknowledgments:
+# Acknowledgments:
 First for "Atheer" and "Lujain" for coming up with the idea
+
 OpenAI for providing the GPT and DALL-E APIs
+
 ElevenLabs for the text-to-speech API
+
 All the great Arabic poets whose works inspire this project
 
 by: **["alwalid54321"](https://github.com/alwalid54321)** and help from "Atheer" and "Lujain" 
